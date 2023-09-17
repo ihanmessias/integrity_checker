@@ -22,8 +22,11 @@ Certifique-se de ter Python instalado em seu sistema. Este script foi testado em
 2. O script calculará o hash do arquivo especificado e o comparará com o hash original salvo.
 
 3. Você receberá uma das seguintes mensagens:
+
 > "O arquivo está íntegro." se o arquivo não foi alterado ou corrompido.
+
 > "O arquivo foi alterado ou corrompido." se o arquivo foi modificado desde que o hash original foi salvo.
+
 > "Não há um hash disponível. Calculando o hash no arquivo." se não houver um hash original disponível e o script calculará o hash e o salvará.
 
 ## Como funciona
