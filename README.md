@@ -45,7 +45,7 @@ Certifique-se de ter Python instalado em seu sistema. Este script foi testado em
 `secret`: Armazena os hashes originais dos arquivos.
 
 ## Contribuindo
-Sinta-se à vontade para contribuir para este projeto abrindo problemas ou enviando solicitações pull. Se você tiver sugestões de melhorias ou encontrar problemas, ficaremos felizes em ouvir suas opiniões.
+Sinta-se à vontade para contribuir para este projeto abrindo problemas ou enviando solicitações pull. Se você tiver sugestões de melhorias ou encontrar problemas, ficai feliz em ouvir suas opiniões.
 
 ### 🤝 Suporte/Contato
 
